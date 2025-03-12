@@ -1,0 +1,3 @@
+http://test.localhost {
+    reverse_proxy growi:3000
+}
